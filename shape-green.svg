@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3425px" height="1830px" viewBox="0 0 3425 1830" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.999 3425.06149 0.999 3425.06149 1830.69 0 1830.69"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(0.000000, -1.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M2256.7129,1796.2961 C3046.6369,1645.2291 3544.9569,989.2911 3400.0509,494.2081 C3280.8909,87.1151 2739.8619,-304.3159 2114.7939,352.1821 C1051.9879,1468.4251 -0.0001,842.8171 -0.0001,842.8171 C-0.0001,842.8171 944.5919,2047.2271 2256.7129,1796.2961" id="Fill-1" fill="#8DCFB3" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>
